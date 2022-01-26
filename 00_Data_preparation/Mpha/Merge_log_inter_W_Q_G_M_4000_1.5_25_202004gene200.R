@@ -1,5 +1,6 @@
-setwd("/hwfssz1/ST_DIVERSITY/F19MPA0079_Ant_Single_Cell/USER/liuyang9/00.scRNAidrop/99.Caste_Compare/fourcaste_log_interdata/00.Rdata")
+setwd("00.Rdata")
 rm(list = ls())
+
 library(data.table)
 library(Matrix)
 library(Seurat)
